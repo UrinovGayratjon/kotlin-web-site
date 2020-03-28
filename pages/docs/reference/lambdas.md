@@ -182,7 +182,7 @@ fun main() {
 }
 ```
 
-</div>
+</divghjnk>
 
 > Note that a function type with no receiver is inferred by default, even if a variable is initialized with a reference
 > to an extension function. 
